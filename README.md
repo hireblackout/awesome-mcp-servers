@@ -175,6 +175,7 @@ For cybersecurity, code quality, and vulnerability management.
 - **ElevenLabs** (1,065 downloads) - Text-to-speech, audio processing
 - **Hugging Face** (139 downloads) - ML hub access
 - **Pinecone** (45 downloads) - Vector database
+- **[Roundtable](https://roundtable.now)** - Multi-model AI debates: GPT-4o, Claude, Gemini & 200+ models discuss your question, then a moderator synthesizes the best answer. 13 tools including `consult_council`, `review_code`, `debug_issue`, and `design_architecture`. [GitHub](https://github.com/deadpixel/roundtable-dashboard) | [MCP Server](https://mcp.roundtable.now/mcp)
 
 ### Development Platforms
 
