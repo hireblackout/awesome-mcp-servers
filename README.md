@@ -185,6 +185,23 @@ For cybersecurity, code quality, and vulnerability management.
 
 ---
 
+
+### ToolPipe MCP Server
+
+- **Tools:** 120+ developer utilities
+- **Status:** Production-ready  
+- **License:** MIT
+- **Use case:** Developer utility toolkit: JSON formatting, QR codes, hashing, DNS lookup, SSL check, WHOIS, code review, API client generation, and more
+
+**Installation:**
+```bash
+npx @cosai-labs/toolpipe-mcp-server
+```
+
+**Why it's useful:** Consolidates 120+ common developer tools into a single MCP server. No API keys needed for the free tier.
+
+---
+
 ## Setup Guide
 
 ### Step 1: Find Your Config File
