@@ -177,6 +177,10 @@ For cybersecurity, code quality, and vulnerability management.
 - **Pinecone** (45 downloads) - Vector database
 - **[Roundtable](https://roundtable.now)** - Multi-model AI debates: GPT-4o, Claude, Gemini & 200+ models discuss your question, then a moderator synthesizes the best answer. 13 tools including `consult_council`, `review_code`, `debug_issue`, and `design_architecture`. [GitHub](https://github.com/deadpixel/roundtable-dashboard) | [MCP Server](https://mcp.roundtable.now/mcp)
 
+### Social Media
+
+- **[Xquik](https://xquik.com)** - Real-time X (Twitter) data platform: search tweets, look up users, extract followers/engagement data, post tweets, run giveaway draws, monitor accounts, and get trending topics. 2 tools (`explore`, `xquik`) covering 122 REST endpoints. [GitHub](https://github.com/Xquik-dev/x-twitter-scraper) | [MCP Server](https://xquik.com/mcp)
+
 ### Development Platforms
 
 - **Firebase** (76 downloads) - Backend infrastructure
