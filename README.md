@@ -130,6 +130,7 @@ For cybersecurity, code quality, and vulnerability management.
 4. Snyk → Dependency auditing
 
 ---
+| **EnigmAgent** | - | ⭐⭐⭐⭐⭐ | AI credential vault — `{{PLACEHOLDER}}` resolution | [GitHub](https://github.com/Agnuxo1/EnigmAgent) |
 
 ## Tier 3: Database & Infrastructure
 
