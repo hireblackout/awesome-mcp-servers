@@ -176,6 +176,7 @@ For cybersecurity, code quality, and vulnerability management.
 - **Hugging Face** (139 downloads) - ML hub access
 - **Pinecone** (45 downloads) - Vector database
 - **[Roundtable](https://roundtable.now)** - Multi-model AI debates: GPT-4o, Claude, Gemini & 200+ models discuss your question, then a moderator synthesizes the best answer. 13 tools including `consult_council`, `review_code`, `debug_issue`, and `design_architecture`. [GitHub](https://github.com/deadpixel/roundtable-dashboard) | [MCP Server](https://mcp.roundtable.now/mcp)
+- **[prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset)** - MCP server routing image generation prompts across 30+ models (DALL-E, Flux, Stable Diffusion, Midjourney, and more) via a unified API. `npm install -g prompt-to-asset`.
 
 ### Social Media
 
