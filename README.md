@@ -391,3 +391,5 @@ MIT - Feel free to share, fork, and improve
 - Developer-reported token economics and setup experiences
 
 **Last verified:** December 16, 2025 | **Next update:** January 2026
+
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
