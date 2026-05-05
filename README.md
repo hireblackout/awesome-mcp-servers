@@ -150,6 +150,7 @@ For cybersecurity, code quality, and vulnerability management.
 |-----|-----------|----------|
 | **Terraform** | 1,062 | Infrastructure as Code |
 | **Kubernetes** | 1,188 | Container orchestration |
+| **[KubeStellar Console kc-agent](https://github.com/kubestellar/console)** | - | Multi-cluster Kubernetes AI ops |
 | **Cloud Run** | 466 | Serverless deployment |
 | **GKE** | 91 | Google Kubernetes Engine |
 | **Google Cloud** | 22 | GCP integration |
