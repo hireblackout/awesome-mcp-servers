@@ -184,6 +184,10 @@ For cybersecurity, code quality, and vulnerability management.
 
 - **[Xquik](https://xquik.com)** - Real-time X (Twitter) data platform: search tweets, look up users, extract followers/engagement data, post tweets, run giveaway draws, monitor accounts, and get trending topics. 2 tools (`explore`, `xquik`) covering 122 REST endpoints. [GitHub](https://github.com/Xquik-dev/x-twitter-scraper) | [MCP Server](https://xquik.com/mcp)
 
+### Marketing & Advertising
+
+- **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site analysis, keyword research, meta tags, schema markup, GEO optimization, content writing ([seo/](https://github.com/nowork-studio/NotFair/tree/main/seo)), wasted-spend detection and keyword/bid management ([google-ads/](https://github.com/nowork-studio/NotFair/tree/main/google-ads)), and ROAS, creative fatigue, and audience overlap analysis ([meta-ads/](https://github.com/nowork-studio/NotFair/tree/main/meta-ads)). MIT license, ~2.9k GitHub stars.
+
 ### Development Platforms
 
 - **Firebase** (76 downloads) - Backend infrastructure
