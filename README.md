@@ -172,6 +172,7 @@ For cybersecurity, code quality, and vulnerability management.
 - **Postman** (102 downloads) - API testing & management
 - **Atlassian/Jira** (96 downloads) - Issue tracking integration
 - **Monday.com** (336 downloads) - Project management
+- **[CaseMgr](https://casemgr.systems)** - CMMN case management workspace for AI agents: 184 MCP tools covering cases, tasks, event-driven workflows, persistent memory with semantic search, billing. OAuth auth. [GitHub](https://github.com/mstang/casemgr-mcp) | [MCP Server](https://casemgr.systems/mcp)
 
 ### AI & ML
 
