@@ -185,6 +185,10 @@ For cybersecurity, code quality, and vulnerability management.
 
 - **[Xquik](https://xquik.com)** - Real-time X (Twitter) data platform: search tweets, look up users, extract followers/engagement data, post tweets, run giveaway draws, monitor accounts, and get trending topics. 2 tools (`explore`, `xquik`) covering 122 REST endpoints. [GitHub](https://github.com/Xquik-dev/x-twitter-scraper) | [MCP Server](https://xquik.com/mcp)
 
+### Business & Marketing
+
+- **[YesHello](https://github.com/yeshello-app/mcp)** - Digital business cards, lead capture forms, and service listings. AI builds from a URL in minutes. 63 tools with live browser editing, stock photos, and guided tours.
+
 ### Development Platforms
 
 - **Firebase** (76 downloads) - Backend infrastructure
