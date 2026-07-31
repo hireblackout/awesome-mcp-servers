@@ -183,6 +183,7 @@ For cybersecurity, code quality, and vulnerability management.
 
 ### Social Media
 
+- **[PostEverywhere](https://posteverywhere.ai/agents)** - Schedule and publish posts to 11 platforms (X, Instagram, TikTok, YouTube, LinkedIn, Facebook, Threads, Pinterest, Bluesky, Telegram, Discord) with media uploads, campaigns, analytics and AI captions. 33 tools, all with safety annotations. Hosted remote with OAuth 2.1. [GitHub](https://github.com/posteverywhere/mcp) | [MCP Server](https://mcp.posteverywhere.ai/mcp)
 - **[Xquik](https://xquik.com)** - Real-time X (Twitter) data platform: search tweets, look up users, extract followers/engagement data, post tweets, run giveaway draws, monitor accounts, and get trending topics. 2 tools (`explore`, `xquik`) covering 122 REST endpoints. [GitHub](https://github.com/Xquik-dev/x-twitter-scraper) | [MCP Server](https://xquik.com/mcp)
 
 ### Development Platforms
