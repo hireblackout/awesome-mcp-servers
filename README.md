@@ -184,6 +184,7 @@ For cybersecurity, code quality, and vulnerability management.
 ### Social Media
 
 - **[Xquik](https://xquik.com)** - Real-time X (Twitter) data platform: search tweets, look up users, extract followers/engagement data, post tweets, run giveaway draws, monitor accounts, and get trending topics. 2 tools (`explore`, `xquik`) covering 122 REST endpoints. [GitHub](https://github.com/Xquik-dev/x-twitter-scraper) | [MCP Server](https://xquik.com/mcp)
+- [Autoposting](https://github.com/Autoposting-ai/autoposting-mcp) - Remote MCP server to schedule, generate and publish social posts to X, LinkedIn, Instagram, Threads and YouTube
 
 ### Development Platforms
 
