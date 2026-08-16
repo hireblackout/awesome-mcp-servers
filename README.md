@@ -184,6 +184,7 @@ For cybersecurity, code quality, and vulnerability management.
 ### Social Media
 
 - **[Xquik](https://xquik.com)** - Real-time X (Twitter) data platform: search tweets, look up users, extract followers/engagement data, post tweets, run giveaway draws, monitor accounts, and get trending topics. 2 tools (`explore`, `xquik`) covering 122 REST endpoints. [GitHub](https://github.com/Xquik-dev/x-twitter-scraper) | [MCP Server](https://xquik.com/mcp)
+- **[TranscriptAPI](https://transcriptapi.com)** - YouTube data platform for AI agents: fetch video transcripts, search YouTube, browse channel uploads, search within a channel, extract playlists, and poll channels for new uploads. 6 tools over one remote endpoint, with OAuth 2.1 and API key auth. [GitHub](https://github.com/ZeroPointRepo/youtube-mcp) | [MCP Server](https://transcriptapi.com/mcp)
 
 ### Development Platforms
 
