@@ -166,6 +166,7 @@ For cybersecurity, code quality, and vulnerability management.
 - **Grafana** (1,880 downloads) - Monitoring dashboards
 - **Dynatrace** (175 downloads) - Application performance monitoring
 - **BigQuery** (12 downloads) - Large-scale analytics
+- **[API Status Check](https://apistatuscheck.com)** - Live and historical availability for 285 public APIs and developer platforms across 29 categories — tell a third-party outage apart from a bug in your own code. 8 tools (`get_api_status`, `list_down_apis`, `get_uptime_history`, `get_incident_history`, `rank_reliability`, `search_apis`, `list_apis`, `list_categories`). No API key. [GitHub](https://github.com/shibley/apistatuscheck-mcp-server) | [MCP Server](https://apistatuscheck.com/api/mcp)
 
 ### Communication & Workflow
 
