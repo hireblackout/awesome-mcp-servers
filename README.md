@@ -399,3 +399,12 @@ MIT - Feel free to share, fork, and improve
 - Developer-reported token economics and setup experiences
 
 **Last verified:** December 16, 2025 | **Next update:** January 2026
+
+---
+
+## Discover & Submit MCP Servers
+
+Looking to get your MCP server in front of AI builders? Or find the latest tools that didn't make this list?
+
+- **[Agents Launchpad](https://launchpad.smartbizcalc.com)** — Curated directory for AI agents, MCP servers, Claude Code skills, and indie agent products. Free to list. Ranked by upvotes from the developer community.
+
