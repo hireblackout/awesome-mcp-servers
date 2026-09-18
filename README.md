@@ -166,6 +166,7 @@ For cybersecurity, code quality, and vulnerability management.
 - **Grafana** (1,880 downloads) - Monitoring dashboards
 - **Dynatrace** (175 downloads) - Application performance monitoring
 - **BigQuery** (12 downloads) - Large-scale analytics
+- **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** - Records the traffic your agent actually exchanged with the model provider (prompts, tool calls, responses) into a local trace library, then replays or diffs those runs offline over six MCP tools (`list`, `show`, `checkpoints`, `graph`, `replay`, `compare`). No account, no API key | `npx -y orcareplay mcp`
 
 ### Communication & Workflow
 
