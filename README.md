@@ -107,6 +107,7 @@ Essential infrastructure for coding workflows.
 | **Playwright** | 300+ (Reddit) | ⭐⭐⭐⭐⭐ | Browser automation, E2E testing, self-testing code | [playwright](https://playwright.dev/docs/intro) |
 | **Chrome DevTools** | 14,971 | ⭐⭐⭐⭐ | Frontend debugging, security testing (XSS, CSP) | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
 | **Memory Bank** | 170+ (Reddit) | ⭐⭐⭐⭐ | Persistent project context, cross-session learning | Community fork |
+| **ClaimIDX** | PyPI | ⭐⭐⭐⭐ | Prior-art failure index for agents (ask before retry) | [claimidx](https://github.com/claimidx/claimidx) |
 | **Brave Search** | 200+ (Reddit) | ⭐⭐⭐⭐ | Web search without API keys | Community fork |
 
 ---
@@ -178,6 +179,7 @@ For cybersecurity, code quality, and vulnerability management.
 - **ElevenLabs** (1,065 downloads) - Text-to-speech, audio processing
 - **Hugging Face** (139 downloads) - ML hub access
 - **Pinecone** (45 downloads) - Vector database
+- **[ClaimIDX](https://github.com/claimidx/claimidx)** - Prior art for AI agents: replay-gated failure index. `pip install "claimidx[server]>=0.7.12"` → `claimidx-mcp`. https://claimidx.com
 - **[Roundtable](https://roundtable.now)** - Multi-model AI debates: GPT-4o, Claude, Gemini & 200+ models discuss your question, then a moderator synthesizes the best answer. 13 tools including `consult_council`, `review_code`, `debug_issue`, and `design_architecture`. [GitHub](https://github.com/deadpixel/roundtable-dashboard) | [MCP Server](https://mcp.roundtable.now/mcp)
 - **[RunAPI](https://runapi.ai/mcp)** - Model discovery and AI image, video, music/audio, text-to-speech, and LLM jobs. [GitHub](https://github.com/runapi-ai/mcp) | `npx -y @runapi.ai/mcp`
 
@@ -290,7 +292,7 @@ cursor mcp add
 // Correct
 "args": ["@mcp/server", "C:/Users/You/projects"]
 // Or
-"args": ["@mcp/server", "C:\\\\Users\\\\You\\\\projects"]
+"args": ["@mcp/server", "C:\\Users\\You\\projects"]
 ```
 
 ### ❌ Mistake 5: Clicking "Deny" on Permissions
