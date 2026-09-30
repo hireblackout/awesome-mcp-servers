@@ -184,6 +184,7 @@ For cybersecurity, code quality, and vulnerability management.
 ### Social Media
 
 - **[Xquik](https://xquik.com)** - Real-time X (Twitter) data platform: search tweets, look up users, extract followers/engagement data, post tweets, run giveaway draws, monitor accounts, and get trending topics. 2 tools (`explore`, `xquik`) covering 122 REST endpoints. [GitHub](https://github.com/Xquik-dev/x-twitter-scraper) | [MCP Server](https://xquik.com/mcp)
+- **[Manifold MCP](https://www.manifoldmcp.com)** - Hosted marketing data server with no API keys of your own, pay per call. SEO (keywords, rankings, backlinks, SERPs, technical crawls), AI search visibility, Reddit, TikTok, Instagram, YouTube, Facebook, LinkedIn and X, ad libraries and work emails. (streamable-http, OAuth 2.1 or API key) | [MCP Server](https://mcp.manifoldmcp.com/mcp)
 
 ### Development Platforms
 
