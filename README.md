@@ -180,6 +180,7 @@ For cybersecurity, code quality, and vulnerability management.
 - **Pinecone** (45 downloads) - Vector database
 - **[Roundtable](https://roundtable.now)** - Multi-model AI debates: GPT-4o, Claude, Gemini & 200+ models discuss your question, then a moderator synthesizes the best answer. 13 tools including `consult_council`, `review_code`, `debug_issue`, and `design_architecture`. [GitHub](https://github.com/deadpixel/roundtable-dashboard) | [MCP Server](https://mcp.roundtable.now/mcp)
 - **[RunAPI](https://runapi.ai/mcp)** - Model discovery and AI image, video, music/audio, text-to-speech, and LLM jobs. [GitHub](https://github.com/runapi-ai/mcp) | `npx -y @runapi.ai/mcp`
+- **[Aident Loadout](https://aident.ai)** - Give your AI agents real capabilities: 1,000+ apps and 400+ Skills through one reusable remote MCP setup. [GitHub](https://github.com/Aident-AI/aident-skill) | [MCP Server](https://loadout.aident.ai/mcp)
 
 ### Social Media
 
