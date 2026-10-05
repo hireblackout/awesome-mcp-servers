@@ -195,6 +195,10 @@ For cybersecurity, code quality, and vulnerability management.
 
 - **[Longbridge MCP](https://github.com/longbridge/longbridge-mcp)** - Official Longbridge brokerage MCP — 145 tools for US/HK real-time quotes, options, trading, fundamentals, IPO, alerts, DCA & portfolio. (streamable-http, OAuth 2.1) | [MCP Server](https://openapi.longbridge.com/mcp)
 
+### Travel & Transportation
+
+- **[SkyAccess](https://skyaccess.com)** - Private jet empty legs. Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. 5 tools including `search_empty_legs`, `get_charter_estimate` and `booking_handoff`. (streamable-http, no auth) [GitHub](https://github.com/sky-access/skyaccess-mcp) | [MCP Server](https://mcp.skyaccess.com/mcp)
+
 ---
 
 ## Setup Guide
