@@ -194,6 +194,7 @@ For cybersecurity, code quality, and vulnerability management.
 ### Finance & Trading
 
 - **[Longbridge MCP](https://github.com/longbridge/longbridge-mcp)** - Official Longbridge brokerage MCP — 145 tools for US/HK real-time quotes, options, trading, fundamentals, IPO, alerts, DCA & portfolio. (streamable-http, OAuth 2.1) | [MCP Server](https://openapi.longbridge.com/mcp)
+- **[Fincept MCP](https://github.com/Fincept-Corporation/fincept-mcp-docs)** - Hosted MCP server for Fincept Terminal: quotes, candles, option chains, fundamentals, economic data, SEC filings, news, backtests, paper trading and 15 quant engines. (streamable-http, OAuth 2.1) | [MCP Server](https://enterprise.fincept.in/mcp)
 
 ---
 
