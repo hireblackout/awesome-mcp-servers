@@ -180,6 +180,7 @@ For cybersecurity, code quality, and vulnerability management.
 - **Pinecone** (45 downloads) - Vector database
 - **[Roundtable](https://roundtable.now)** - Multi-model AI debates: GPT-4o, Claude, Gemini & 200+ models discuss your question, then a moderator synthesizes the best answer. 13 tools including `consult_council`, `review_code`, `debug_issue`, and `design_architecture`. [GitHub](https://github.com/deadpixel/roundtable-dashboard) | [MCP Server](https://mcp.roundtable.now/mcp)
 - **[RunAPI](https://runapi.ai/mcp)** - Model discovery and AI image, video, music/audio, text-to-speech, and LLM jobs. [GitHub](https://github.com/runapi-ai/mcp) | `npx -y @runapi.ai/mcp`
+- **[AI Applyd](https://github.com/aiapplyd/aiapplyd-mcp)** - Job matching, ATS resume scoring, job-description analysis, interview prep, tailored resumes and cover letters, and editable resume drafts. Automatically submits applications on employers' hiring systems, with optional review and approval, application tracking, and employer confirmation. Hosted remote server with Streamable HTTP and OAuth 2.1. [Setup](https://aiapplyd.com/mcps) | [MCP endpoint](https://mcp.aiapplyd.com/mcp)
 
 ### Social Media
 
