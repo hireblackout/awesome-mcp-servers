@@ -193,6 +193,7 @@ For cybersecurity, code quality, and vulnerability management.
 
 ### Finance & Trading
 
+- **[Silicon Floor](https://github.com/Baptoshi/silicon-floor)** - Who owns AI and semiconductor stocks, who is buying and selling them, and what their filed numbers say — SEC XBRL financials, 13F, Schedule 13D/G, Forms 3/4/5, FINRA short interest and dividends, every figure dated and linked to its filing. (streamable-http, no auth) | [MCP Server](https://siliconfloor.com/mcp)
 - **[Longbridge MCP](https://github.com/longbridge/longbridge-mcp)** - Official Longbridge brokerage MCP — 145 tools for US/HK real-time quotes, options, trading, fundamentals, IPO, alerts, DCA & portfolio. (streamable-http, OAuth 2.1) | [MCP Server](https://openapi.longbridge.com/mcp)
 
 ---
