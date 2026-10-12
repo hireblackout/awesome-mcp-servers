@@ -166,6 +166,7 @@ For cybersecurity, code quality, and vulnerability management.
 - **Grafana** (1,880 downloads) - Monitoring dashboards
 - **Dynatrace** (175 downloads) - Application performance monitoring
 - **BigQuery** (12 downloads) - Large-scale analytics
+- **[DC Hub](https://dchub.cloud)** - DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. [GitHub](https://github.com/azmartone67/dchub-mcp-server) | [MCP Server](https://dchub.cloud/mcp)
 
 ### Communication & Workflow
 
