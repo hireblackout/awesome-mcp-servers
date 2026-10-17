@@ -191,6 +191,10 @@ For cybersecurity, code quality, and vulnerability management.
 - **Flutter** (306 downloads) - Mobile development
 - **genkit** (120 downloads) - Full-stack AI apps
 
+### Web Capture
+
+- **[CurlShot](https://curlshot.com)** - Hosted screenshot server: `take_screenshot` turns a URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video, and `list_devices` lists phone, tablet and desktop presets. Free plan of 100 screenshots a month. [GitHub](https://github.com/SergiuPogor/curlshot-mcp) | [MCP Server](https://curlshot.com/api/mcp)
+
 ### Finance & Trading
 
 - **[Longbridge MCP](https://github.com/longbridge/longbridge-mcp)** - Official Longbridge brokerage MCP — 145 tools for US/HK real-time quotes, options, trading, fundamentals, IPO, alerts, DCA & portfolio. (streamable-http, OAuth 2.1) | [MCP Server](https://openapi.longbridge.com/mcp)
