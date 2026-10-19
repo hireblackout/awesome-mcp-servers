@@ -184,6 +184,7 @@ For cybersecurity, code quality, and vulnerability management.
 ### Social Media
 
 - **[Xquik](https://xquik.com)** - Real-time X (Twitter) data platform: search tweets, look up users, extract followers/engagement data, post tweets, run giveaway draws, monitor accounts, and get trending topics. 2 tools (`explore`, `xquik`) covering 122 REST endpoints. [GitHub](https://github.com/Xquik-dev/x-twitter-scraper) | [MCP Server](https://xquik.com/mcp)
+- **[Quibbly](https://quibbly.co/linkedin-mcp)** - Hosted LinkedIn inbox MCP: read conversations and connections, see who watched your videos, set follow-ups and notes, and draft replies that wait in Quibbly until you click Send. Never sends on its own. 31 tools. (streamable-http, OAuth 2.1) [GitHub](https://github.com/Scriptify-Inc/linkedin-mcp) | [MCP Server](https://server.quibbly.co/mcp)
 
 ### Development Platforms
 
