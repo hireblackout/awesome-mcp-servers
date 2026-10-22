@@ -195,6 +195,10 @@ For cybersecurity, code quality, and vulnerability management.
 
 - **[Longbridge MCP](https://github.com/longbridge/longbridge-mcp)** - Official Longbridge brokerage MCP — 145 tools for US/HK real-time quotes, options, trading, fundamentals, IPO, alerts, DCA & portfolio. (streamable-http, OAuth 2.1) | [MCP Server](https://openapi.longbridge.com/mcp)
 
+### Ecommerce
+
+- **[datawebot](https://www.datawebot.com/docs/agents)** - Ecommerce product data for agents: product search across online shops worldwide, every seller's price for one product with direct shop links, and extraction Jobs on Amazon (10 countries) and 1,100+ Shopify stores. Sign-in is free; paid from 200 free trial credits. (streamable-http, OAuth 2.1) | [GitHub](https://github.com/datawebot/datawebot-mcp) | [MCP Server](https://mcp.datawebot.com/mcp)
+
 ---
 
 ## Setup Guide
