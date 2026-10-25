@@ -329,6 +329,7 @@ cursor mcp add
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers)
 - [Filesystem](https://github.com/modelcontextprotocol/servers)
 - [GitHub MCP](https://github.com/github/github-mcp-server)
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`), HTTP 402 payment wall, and MCP tool server for verifying Layer-1 `DOOM` and Base Mainnet `wDOOM` payments.
 - [Playwright](https://playwright.dev/)
 - [Gemini CLI Extensions Directory](https://geminicli.com/extensions/)
 - [MCP Market Leaderboard](https://mcpmarket.com/leaderboards)
