@@ -194,6 +194,7 @@ For cybersecurity, code quality, and vulnerability management.
 ### Finance & Trading
 
 - **[Longbridge MCP](https://github.com/longbridge/longbridge-mcp)** - Official Longbridge brokerage MCP — 145 tools for US/HK real-time quotes, options, trading, fundamentals, IPO, alerts, DCA & portfolio. (streamable-http, OAuth 2.1) | [MCP Server](https://openapi.longbridge.com/mcp)
+- **[Sports Odds API (BetRivers, Unibet & 22 more books)](https://apify.com/publicrecords/sports-odds-api)** - Live odds from 24 Kambi-powered sportsbooks in one call: BetRivers (12 US states + Ontario), Unibet, Paf, Svenska Spel, ATG. One row per game with every book's price and the best price per outcome. Pay per call, no subscription. (streamable-http, OAuth) | [MCP Server](https://mcp.apify.com?tools=publicrecords/sports-odds-api)
 
 ---
 
