@@ -166,6 +166,7 @@ For cybersecurity, code quality, and vulnerability management.
 - **Grafana** (1,880 downloads) - Monitoring dashboards
 - **Dynatrace** (175 downloads) - Application performance monitoring
 - **BigQuery** (12 downloads) - Large-scale analytics
+- **[Scrapewise](https://github.com/BEBOTECH-OU/scrapewise-mcp)** - Remote MCP server that scrapes, cleans and matches product and price data from any website. Streamable HTTP, OAuth or API key. | [MCP Server](https://mcp.scrapewise.ai/mcp)
 
 ### Communication & Workflow
 
